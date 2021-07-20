@@ -1,0 +1,4 @@
+#En python
+/*Crear una materia, agregar entregas o parciales, dividir el calendario en bloques libres, de actividades obligatorias o flexibles(las flexibles significan que el programa
+puede llegar a desplazarla a un bloque "libre") y bloques de descanso.*/
+#Este es el primer modelo, la importacón del calendario automáticamente la haremos después.
